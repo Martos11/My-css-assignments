@@ -17,7 +17,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 60vh;
+  min-height: 60vh;
   background-color: purple;
   width: 100%;
   max-width: 420px;
